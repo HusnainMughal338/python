@@ -10,4 +10,5 @@ print("division",division)
 differ=22-23
 print(differ)
 product=4**10
-print("product",product)
+reminder=13//2
+print(reminder)
